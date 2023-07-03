@@ -1,0 +1,16 @@
+# Temperature Converter
+
+This project is a simple program written in Python that converts temperatures between Fahrenheit and Celsius.
+
+## How to Use
+
+The program asks the user to enter a temperature in either Fahrenheit or Celsius.
+It will then convert the entered temperature to the other unit.
+
+## Contribution
+
+Contributions are welcome! If you'd like to improve the program, feel free to make a pull request.
+
+## License
+
+This project is licensed under the terms of the MIT license.
